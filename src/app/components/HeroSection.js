@@ -1,8 +1,6 @@
 'use client';
-import React from 'react';
 import Image from 'next/image';
 import styles from './HeroSection.module.css';
-import { Button } from 'bootstrap';
 
 export default function HeroSection() {
   return (

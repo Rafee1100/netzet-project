@@ -25,7 +25,8 @@ export default function HeroSection() {
         <p className="mt-4 small">1-minute quiz for personalized insights</p>
 
         <p className="mt-4 small">
-          By clicking "Get Started", you agree with Terms and Conditions, Privacy Policy, Subscription Terms
+        
+          By clicking &quot;Get Started&quot;., you agree with Terms and Conditions, Privacy Policy, Subscription Terms
         </p>
         <p className="small">Fametonic 2025 © All Rights Reserved.</p>
         </div>
